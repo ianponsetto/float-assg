@@ -1,0 +1,20 @@
+html {
+    background: url(http://star.arm.ac.uk/scholars/iya/_Media/horsehead_nebula_02092008-3.jpeg);
+    background-size: cover;
+}
+
+.container {
+    color: aliceblue;
+}
+
+.left {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.right {
+    float: right;
+    margin-right: 10px;
+    margin-left: 10px;
+}
